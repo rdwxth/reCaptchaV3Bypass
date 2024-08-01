@@ -32,8 +32,8 @@ Here is an example of how to use the `ReCaptchaV3Bypass` library:
 ```
 from reCaptchaV3Bypass.bypass import ReCaptchaV3Bypass
 
-# Replace 'your_target_url' with the URL of the page you want to bypass
-target_url = "your_target_url"
+# Replace 'anchor_url' with the recaptcha anchcor URL of the page you want to bypass
+target_url = "anchor_url"
 bypass = ReCaptchaV3Bypass(target_url)
 
 # Perform the bypass
