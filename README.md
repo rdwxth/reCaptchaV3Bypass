@@ -20,7 +20,7 @@
 To install `ReCaptchaV3Bypass`, you can use `pip`. First, clone the repository, then navigate to the project directory and run:
 
 ```
-git clone https://github.com/yourusername/reCaptchaV3Bypass.git
+git clone https://github.com/rdwxth/reCaptchaV3Bypass.git
 cd reCaptchaV3Bypass
 pip install .
 ```
